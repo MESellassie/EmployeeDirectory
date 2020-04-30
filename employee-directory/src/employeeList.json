@@ -61,6 +61,38 @@
         "alias": "Wolverine",
         "image": "https://cdn.britannica.com/72/182872-050-914C987D/Hugh-Jackman-title-character-The-Wolverine-James.jpg",
         "email": "thebestatwhatIdo@weaponx.com",
-        "occupation": ""
+        "occupation": "Assassin"
+    },
+    {
+        "id": 9,
+        "name": "Wanda Maximoff",
+        "alias": "Scarlet Witch",
+        "image": "https://img1.looper.com/img/gallery/why-scarlet-witchs-powers-are-underrated/intro-1571667819.jpg",
+        "email": "androidlove@nomoremutants.com",
+        "occupation": "Witch"
+    },
+    {
+        "id": 10,
+        "name": "Thor Odinson",
+        "alias": "",
+        "image": "https://c4.wallpaperflare.com/wallpaper/70/1011/821/thor-fat-thor-marvel-cinematic-universe-hd-wallpaper-preview.jpg",
+        "email": "asgardian1@odinson.org",
+        "occupation": "N/A"
+    },
+    {
+        "id": 11,
+        "name": "Clint Barton",
+        "alias": "Hawkeye",
+        "image": "https://i.pinimg.com/originals/10/f8/1d/10f81dd91b84c7fc7edaec391a0555cc.jpg",
+        "email": "Hawkeye@HawkeyeInvestigations.com",
+        "occupation": "Agent"
+    },
+    {
+        "id": 12,
+        "name": "Victor Shade",
+        "alias": "Vision",
+        "image": "https://depor.com/resizer/eLnu2vjclc86euMU8cDsVBR9ACU=/980x528/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/YV3CY6UETVDZPHFIDUI4WVK2JQ.jpg",
+        "email": "wandalove@vivvin.com",
+        "occupation": "N/A"
     }
 ]
