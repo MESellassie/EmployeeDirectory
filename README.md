@@ -21,4 +21,10 @@ The user can also search for a specific hero by entering the character's first o
 
 ## Images of Application
 
-![]()
+![](https://github.com/MESellassie/EmployeeDirectory/blob/master/employee-directory/public/intro-screen.JPG?raw=true)
+
+![](https://github.com/MESellassie/EmployeeDirectory/blob/master/employee-directory/public/unordered-list.JPG?raw=true)
+
+![](https://github.com/MESellassie/EmployeeDirectory/blob/master/employee-directory/public/ordered-list.JPG?raw=true)
+
+![](https://github.com/MESellassie/EmployeeDirectory/blob/master/employee-directory/public/single-search.JPG?raw=true)
