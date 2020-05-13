@@ -5,17 +5,19 @@ function Form (props) {
 
     return (
       <div>
-       <h3>Enter your heroe's name below and click alphaphetize to view the full list again!</h3>
+       <p>Enter your heroe's First or Last name below with a capital letter to search or click alphabetize to view a sorted list!</p>
+       <br></br>
+       <p>Click Submit again to reset the list of heroes.</p>
         
        <div class="entertext">
         <form className="form">
           
           <input
-            value={props.name}
-            name="name"
+            value={props.firstName}
+            name="firstName"
             onChange={props.handleInputChange}
             type="text"
-            placeholder="lowercase only!"
+            placeholder="First or Last name only"
           />
          <br></br>
          <br></br>

@@ -1,7 +1,8 @@
 [
     {
         "id": 1,
-        "name": "Peter Parker",
+        "firstName": "Peter",
+        "lastName": "Parker",
         "alias": "Spider-Man",
         "image": "https://heroichollywood.com/wp-content/uploads/2019/08/Tom_Holland_Spider-Man_Sony_Marvel.jpg",
         "email": "friendlyneighborhood@spiderman.com",
@@ -9,7 +10,8 @@
     },
     {
         "id": 2,
-        "name": "Thanos",
+        "firstName": "Thanos",
+        "lastName": "",
         "alias": "The Mad Titan",
         "image": "https://cdn.vox-cdn.com/thumbor/FUiZhxG5CqieDugP3dvkh_QpQ3c=/0x0:2000x1000/1400x933/filters:focal(654x138:974x458):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/59408999/Thanos_MCU.0.jpg",
         "email": "onesnap@sacrificeyourdaughter.com",
@@ -17,7 +19,8 @@
     },
     {
         "id": 3,
-        "name": "Wade Wilson",
+        "firstName": "Wade",
+        "lastName": "Wilson",
         "alias": "Deadpool",
         "image": "https://img1.looper.com/img/gallery/some-major-changes-could-be-coming-for-deadpool-3/intro-1582726273.jpg",
         "email": "mercwithamouth@breakthefourthwall.com",
@@ -25,7 +28,8 @@
     },
     {
         "id": 4,
-        "name": "Tony Stark",
+        "firstName": "Tony",
+        "lastName": "Stark",
         "alias": "Iron Man",
         "image": "https://www.nme.com/wp-content/uploads/2019/05/avengersrdj-696x442.jpg",
         "email": "loveu3000@starkindustries.com",
@@ -33,7 +37,8 @@
     },
     {
         "id": 5,
-        "name": "Natasha Romanov",
+        "firstName": "Natasha",
+        "lastName": "Romanov",
         "alias": "Black Widow",
         "image": "https://am24.mediaite.com/tms/cnt/uploads/2016/08/blackwidow.jpg",
         "email": "reformedassassin@redroom.com",
@@ -41,7 +46,8 @@
     },
     {
         "id": 6,
-        "name": "Steve Rodgers",
+        "firstName": "Steve",
+        "lastName": "Rodgers",
         "alias": "Captain America",
         "image": "https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg",
         "email": "peggy4me@firstavenger.org",
@@ -49,7 +55,8 @@
     },
     {
         "id": 7,
-        "name": "Bruce Banner",
+        "firstName": "Bruce",
+        "lastName": "Banner",
         "alias": "Hulk",
         "image": "https://img.etimg.com/thumb/msid-72400227,width-1200,height-900,imgsize-349917,overlay-etpanache/photo.jpg",
         "email": "hulk@smash.com",
@@ -57,7 +64,8 @@
     },
     {
         "id": 8,
-        "name": "Logan",
+        "firstName": "Logan",
+        "lastName": "Howlett",
         "alias": "Wolverine",
         "image": "https://cdn.britannica.com/72/182872-050-914C987D/Hugh-Jackman-title-character-The-Wolverine-James.jpg",
         "email": "thebestatwhatIdo@weaponx.com",
@@ -65,7 +73,8 @@
     },
     {
         "id": 9,
-        "name": "Wanda Maximoff",
+        "firstName": "Wanda",
+        "lastName": "Maximoff",
         "alias": "Scarlet Witch",
         "image": "https://img1.looper.com/img/gallery/why-scarlet-witchs-powers-are-underrated/intro-1571667819.jpg",
         "email": "androidlove@nomoremutants.com",
@@ -73,15 +82,17 @@
     },
     {
         "id": 10,
-        "name": "Thor Odinson",
-        "alias": "",
+        "firstName": "Thor",
+        "lastName": "Odinson",
+        "alias": "God of Thunder",
         "image": "https://c4.wallpaperflare.com/wallpaper/70/1011/821/thor-fat-thor-marvel-cinematic-universe-hd-wallpaper-preview.jpg",
         "email": "asgardian1@odinson.org",
         "occupation": "N/A"
     },
     {
         "id": 11,
-        "name": "Clint Barton",
+        "firstName": "Clint",
+        "lastName": "Barton",
         "alias": "Hawkeye",
         "image": "https://i.pinimg.com/originals/10/f8/1d/10f81dd91b84c7fc7edaec391a0555cc.jpg",
         "email": "Hawkeye@HawkeyeInvestigations.com",
@@ -89,7 +100,8 @@
     },
     {
         "id": 12,
-        "name": "Victor Shade",
+        "firstName": "Victor",
+        "lastName": "Shade",
         "alias": "Vision",
         "image": "https://depor.com/resizer/eLnu2vjclc86euMU8cDsVBR9ACU=/980x528/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/YV3CY6UETVDZPHFIDUI4WVK2JQ.jpg",
         "email": "wandalove@vivvin.com",

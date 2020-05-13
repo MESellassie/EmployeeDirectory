@@ -3,3 +3,11 @@
     padding-top: 1rem;
     padding-bottom: 1rem;
 }
+
+p {
+    text-align: center;
+}
+
+.btn {
+    color: white;
+}
