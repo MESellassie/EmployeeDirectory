@@ -3,7 +3,7 @@ import Title from "./components/Title";
 import employeeList from "./employeeList.json";
 import Container from "./components/ContentContainer";
 import Form from "./components/Form";
-import Employee from "./components/EmployeeResults"
+import Employee from "./components/EmployeeResults";
 
 class App extends Component {
   // Setting this.state.employees to the employees json array
