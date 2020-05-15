@@ -9,7 +9,7 @@ function Form (props) {
        <br></br>
        <p>Click Submit again to reset the list of heroes.</p>
         
-       <div class="entertext">
+       <div className="entertext">
         <form className="form">
           
           <input
